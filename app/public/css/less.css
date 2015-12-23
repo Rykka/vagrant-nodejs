@@ -1,0 +1,112 @@
+body {
+  background-color: #FEFAEB;
+  padding-top: 50px;
+}
+p,
+.react > div {
+  line-height: 1.3em;
+  margin: 2px;
+  padding: 2px;
+}
+h1,
+h2 {
+  margin: 6px;
+}
+.hide {
+  display: none;
+}
+.vanilla-css {
+  background-color: #b8bdcc;
+}
+.sass {
+  background-color: #b9b8cc;
+}
+.scss {
+  background-color: #c0b8cc;
+}
+.less {
+  background-color: #c7b8cc;
+}
+.vanilla {
+  background-color: #ccb8cb;
+}
+.typescript {
+  background-color: #ccb8c4;
+}
+.coffee {
+  background-color: #ccb8bd;
+}
+.react div {
+  background-color: #ccb9b8;
+}
+.es6 {
+  background-color: #ccc0b8;
+}
+.browserify1 {
+  background-color: #ccc7b8;
+}
+.browserify2 {
+  background-color: #cbccb8;
+}
+.browserify3 {
+  background-color: #c4ccb8;
+}
+.browserify4 {
+  background-color: #bdccb8;
+}
+.browserify5 {
+  background-color: #b8ccb9;
+}
+.webpack1 {
+  background-color: #b8ccc0;
+}
+.webpack2 {
+  background-color: #b8ccc7;
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  background-color: #F2FFCC;
+  width: auto;
+  max-width: 860px;
+  margin: auto;
+}
+.container h1 {
+  color: #F2FFCC;
+  background-color: #CACACA;
+  margin: 1px;
+  padding: 2px;
+}
+section {
+  display: flex;
+}
+section header {
+  flex: none;
+  width: 30px;
+  background-color: #CACACA;
+  margin: 1px;
+  padding: 1px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+section header h2 {
+  transform: rotate(-90deg);
+  transform-origin: center center;
+}
+section content {
+  flex: 1;
+  width: 100%;
+  margin: -1px;
+  overflow: auto;
+}
+section content .log {
+  float: right;
+  padding-right: 5px;
+  font-size: 60%;
+  color: #555;
+}
+.less {
+  display: block !important;
+}

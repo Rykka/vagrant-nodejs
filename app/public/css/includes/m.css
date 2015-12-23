@@ -1,0 +1,65 @@
+body {
+  background-color: #FEFAEB;
+  padding-top: 50px;
+}
+p,
+.react > div {
+  line-height: 1.3em;
+  margin: 2px;
+  padding: 2px;
+}
+h1,
+h2 {
+  margin: 6px;
+}
+.hide {
+  display: none;
+}
+.vanilla-css {
+  background-color: #b8bdcc;
+}
+.sass {
+  background-color: #b9b8cc;
+}
+.scss {
+  background-color: #c0b8cc;
+}
+.less {
+  background-color: #c7b8cc;
+}
+.vanilla {
+  background-color: #ccb8cb;
+}
+.typescript {
+  background-color: #ccb8c4;
+}
+.coffee {
+  background-color: #ccb8bd;
+}
+.react div {
+  background-color: #ccb9b8;
+}
+.es6 {
+  background-color: #ccc0b8;
+}
+.browserify1 {
+  background-color: #ccc7b8;
+}
+.browserify2 {
+  background-color: #cbccb8;
+}
+.browserify3 {
+  background-color: #c4ccb8;
+}
+.browserify4 {
+  background-color: #bdccb8;
+}
+.browserify5 {
+  background-color: #b8ccb9;
+}
+.webpack1 {
+  background-color: #b8ccc0;
+}
+.webpack2 {
+  background-color: #b8ccc7;
+}

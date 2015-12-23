@@ -39,6 +39,12 @@ hostname nodejs-vagrant
 # Vim settings:
 /vagrant/sh/vim.sh
 
+
+/vagrant/sh/app.sh
+
+
+
+
 touch /etc/vagrant-provisioned
 
 echo "--------------------------------------------------"
